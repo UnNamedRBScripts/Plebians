@@ -1,0 +1,3 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Rainbow-Friends/main/Main.lua'))()
+
+Key: 9qptIMTSPFawYRBENv6YXtexRWXcesL2Y9CkewncNKWEB4yKIBSGKqUUgmAI3xy8

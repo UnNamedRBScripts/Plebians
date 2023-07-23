@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BlueDino-B0T/PP-Script/main/PP%20Script'))()
